@@ -1,0 +1,42 @@
+February 1, 2007
+
+This file provides registrants data for the 2007 Computational Medicine Center (CMC) 2007 Challenge.
+
+Purpose: Challenge the International Natural Language Processing (NLP) research community to create and train computational intelligence algorithms that automate the assignment of ICD-9-CM codes to clinical free text.
+
+The CMCChallenge2007TrainData.zip file includes the following files.
+
+1. 2007ChallengeDescription.pdf - a description of the Challenge and how the data were collected.
+
+2. 2007ChallengeTrainData.xml - the actual training data with all companies' ICD-9-CM codes.
+
+3. 2007ChallengeTrainSchema.ng - the train data schema (use xmllint to check your own XML file).
+
+Participants can train their system on any company coding schema but the testing data will be evaluated with regard to CMC_MAJORITY coding.
+
+The 2007 schedule is:
+
+* 01-Dec-06 Web site launched 
+
+* January 22, 2007 Registration begins 
+
+* February 28, 2007 Registration Ends 
+
+* February 1, 2007 Training data set available 
+
+* March 1, 2007 Test data set available 
+
+* March 18, 2007 Last day to submit results - midnight U.S. Eastern Standard Time. Results must be uploaded to the computationalmedicine.org/challenge site. 
+
+* April 1, 2007 Results made public. 
+
+* April 15, 2007 All data made public via http://www.computationalmedicine.org 
+
+
+Members of the Challenge team include: C. Brew (Ohio State University), K. Cohen (Center for Computational Pharmacology/University of Colorado Health Sciences Center) Wlodzislaw Duch (Nicolaus Copernicus University), DJ Hovermale (Ohio State University), Eric Lombardo (Cincinnati Children's Hospital Medical Center - consultant), Pawel Matykiewicz (Nicolaus Copernicus University/Cincinnati Children's Hospital Medical Center) and John Pestian (Cincinnati Children's Hospital Medical Center/University of Cincinnati)
+
+Travel award is generously donated by Cincom Systems (www.cincom.com)
+
+  The Challenge is partly funded by an Ohio Third Frontier, Wright Center of Innovation grant, CCHMC's division of Biomedical Informatics and department of Radiology, and Ohio State University's Department of Linguistics.
+
+  For more information about the CMC and the Challenge 2007 organizers go to: http://www.computationalmedicine.org/challenge Questions should be sent to information@computationalmedicine.org. 

@@ -1,0 +1,2599 @@
+[
+    {
+        "contributors": null, 
+        "truncated": true, 
+        "text": "Breaking News: North Korea, in a surprise late-night call, postponed high-level talks with South Korea, objecting t\u2026 https://t.co/WrUJlNeQO5", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 996476876809007105, 
+        "favorite_count": 18, 
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/WrUJlNeQO5", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/996476876809007105", 
+                    "display_url": "twitter.com/i/web/status/9\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 18, 
+        "id_str": "996476876809007105", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 807095, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.nytimes.com/", 
+                            "display_url": "nytimes.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ghL9OoYKMM", 
+                            "indices": [
+                                113, 
+                                136
+                            ], 
+                            "expanded_url": "http://nyti.ms/2FVHq9v", 
+                            "display_url": "nyti.ms/2FVHq9v"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 42066812, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "807095", 
+            "profile_background_color": "131516", 
+            "listed_count": 195278, 
+            "is_translation_enabled": true, 
+            "utc_offset": -14400, 
+            "statuses_count": 319900, 
+            "description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.", 
+            "friends_count": 880, 
+            "location": "New York City", 
+            "profile_link_color": "607696", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "screen_name": "nytimes", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 16848, 
+            "name": "The New York Times", 
+            "notifications": false, 
+            "url": "http://t.co/ahvuWqicF9", 
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Tue May 15 19:46:15 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @nytvideo: Dozens of Palestinians were killed and thousands were injured after Israeli forces fired on protesters in Gaza yesterday. We\u2026", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 996475327399505921, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 16929520, 
+                    "indices": [
+                        3, 
+                        12
+                    ], 
+                    "id_str": "16929520", 
+                    "screen_name": "nytvideo", 
+                    "name": "New York Times Video"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 13, 
+        "id_str": "996475327399505921", 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": true, 
+            "text": "Dozens of Palestinians were killed and thousands were injured after Israeli forces fired on protesters in Gaza yest\u2026 https://t.co/4z3CQfIEPi", 
+            "is_quote_status": false, 
+            "in_reply_to_status_id": null, 
+            "id": 996440316285681665, 
+            "favorite_count": 7, 
+            "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [
+                    {
+                        "url": "https://t.co/4z3CQfIEPi", 
+                        "indices": [
+                            117, 
+                            140
+                        ], 
+                        "expanded_url": "https://twitter.com/i/web/status/996440316285681665", 
+                        "display_url": "twitter.com/i/web/status/9\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_user_id": null, 
+            "retweet_count": 13, 
+            "id_str": "996440316285681665", 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "has_extended_profile": false, 
+                "profile_use_background_image": false, 
+                "default_profile_image": false, 
+                "id": 16929520, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/4406368/twitter_post.png", 
+                "verified": true, 
+                "translator_type": "none", 
+                "profile_text_color": "333333", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/966309399844159488/c1hjlvIV_normal.jpg", 
+                "profile_sidebar_fill_color": "DDFFCC", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/AUNhGDXpLN", 
+                                "indices": [
+                                    0, 
+                                    22
+                                ], 
+                                "expanded_url": "http://nytimes.com/video", 
+                                "display_url": "nytimes.com/video"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/9kbKNteZ6r", 
+                                "indices": [
+                                    84, 
+                                    107
+                                ], 
+                                "expanded_url": "http://nyti.ms/2gZfdQ2", 
+                                "display_url": "nyti.ms/2gZfdQ2"
+                            }
+                        ]
+                    }
+                }, 
+                "followers_count": 274845, 
+                "profile_sidebar_border_color": "FFFFFF", 
+                "id_str": "16929520", 
+                "profile_background_color": "FFFFFF", 
+                "listed_count": 2229, 
+                "is_translation_enabled": false, 
+                "utc_offset": -14400, 
+                "statuses_count": 17712, 
+                "description": "All the news that's fit to watch. Videos from @nytimes. Sign-up for our newsletter: https://t.co/9kbKNteZ6r", 
+                "friends_count": 424, 
+                "location": "New York, NY", 
+                "profile_link_color": "0084B4", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/966309399844159488/c1hjlvIV_normal.jpg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/16929520/1439939116", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/4406368/twitter_post.png", 
+                "screen_name": "nytvideo", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 145, 
+                "name": "New York Times Video", 
+                "notifications": false, 
+                "url": "http://t.co/AUNhGDXpLN", 
+                "created_at": "Thu Oct 23 16:15:38 +0000 2008", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Tue May 15 17:20:59 +0000 2018", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 807095, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.nytimes.com/", 
+                            "display_url": "nytimes.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ghL9OoYKMM", 
+                            "indices": [
+                                113, 
+                                136
+                            ], 
+                            "expanded_url": "http://nyti.ms/2FVHq9v", 
+                            "display_url": "nyti.ms/2FVHq9v"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 42066812, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "807095", 
+            "profile_background_color": "131516", 
+            "listed_count": 195278, 
+            "is_translation_enabled": true, 
+            "utc_offset": -14400, 
+            "statuses_count": 319900, 
+            "description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.", 
+            "friends_count": 880, 
+            "location": "New York City", 
+            "profile_link_color": "607696", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "screen_name": "nytimes", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 16848, 
+            "name": "The New York Times", 
+            "notifications": false, 
+            "url": "http://t.co/ahvuWqicF9", 
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Tue May 15 19:40:06 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "I was going to write this tweet but I think I'll go bake cookies instead https://t.co/gSXH5qdcFJ", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 996469572327936001, 
+        "favorite_count": 266, 
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/gSXH5qdcFJ", 
+                    "indices": [
+                        73, 
+                        96
+                    ], 
+                    "expanded_url": "https://nyti.ms/2rMhlR3", 
+                    "display_url": "nyti.ms/2rMhlR3"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 52, 
+        "id_str": "996469572327936001", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 807095, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.nytimes.com/", 
+                            "display_url": "nytimes.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ghL9OoYKMM", 
+                            "indices": [
+                                113, 
+                                136
+                            ], 
+                            "expanded_url": "http://nyti.ms/2FVHq9v", 
+                            "display_url": "nyti.ms/2FVHq9v"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 42066812, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "807095", 
+            "profile_background_color": "131516", 
+            "listed_count": 195278, 
+            "is_translation_enabled": true, 
+            "utc_offset": -14400, 
+            "statuses_count": 319900, 
+            "description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.", 
+            "friends_count": 880, 
+            "location": "New York City", 
+            "profile_link_color": "607696", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "screen_name": "nytimes", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 16848, 
+            "name": "The New York Times", 
+            "notifications": false, 
+            "url": "http://t.co/ahvuWqicF9", 
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Tue May 15 19:17:14 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": true, 
+        "text": "\u201cA constant stream of stretchers.\u201d On a deadly day in Gaza, our video journalists rode with paramedics rescuing pro\u2026 https://t.co/GJd8M9jKea", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 996465503324516352, 
+        "favorite_count": 98, 
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/GJd8M9jKea", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/996465503324516352", 
+                    "display_url": "twitter.com/i/web/status/9\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 73, 
+        "id_str": "996465503324516352", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 807095, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.nytimes.com/", 
+                            "display_url": "nytimes.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ghL9OoYKMM", 
+                            "indices": [
+                                113, 
+                                136
+                            ], 
+                            "expanded_url": "http://nyti.ms/2FVHq9v", 
+                            "display_url": "nyti.ms/2FVHq9v"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 42066812, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "807095", 
+            "profile_background_color": "131516", 
+            "listed_count": 195278, 
+            "is_translation_enabled": true, 
+            "utc_offset": -14400, 
+            "statuses_count": 319900, 
+            "description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.", 
+            "friends_count": 880, 
+            "location": "New York City", 
+            "profile_link_color": "607696", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "screen_name": "nytimes", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 16848, 
+            "name": "The New York Times", 
+            "notifications": false, 
+            "url": "http://t.co/ahvuWqicF9", 
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Tue May 15 19:01:04 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": true, 
+        "text": "How did Eric Greitens's affair lead to political chaos and a legal battle in Missouri, and where does this end? Her\u2026 https://t.co/huDtHXl9S0", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 996463134943608833, 
+        "favorite_count": 71, 
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/huDtHXl9S0", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/996463134943608833", 
+                    "display_url": "twitter.com/i/web/status/9\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 33, 
+        "id_str": "996463134943608833", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 807095, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.nytimes.com/", 
+                            "display_url": "nytimes.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ghL9OoYKMM", 
+                            "indices": [
+                                113, 
+                                136
+                            ], 
+                            "expanded_url": "http://nyti.ms/2FVHq9v", 
+                            "display_url": "nyti.ms/2FVHq9v"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 42066812, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "807095", 
+            "profile_background_color": "131516", 
+            "listed_count": 195278, 
+            "is_translation_enabled": true, 
+            "utc_offset": -14400, 
+            "statuses_count": 319900, 
+            "description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.", 
+            "friends_count": 880, 
+            "location": "New York City", 
+            "profile_link_color": "607696", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "screen_name": "nytimes", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 16848, 
+            "name": "The New York Times", 
+            "notifications": false, 
+            "url": "http://t.co/ahvuWqicF9", 
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Tue May 15 18:51:39 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Alaska, a major oil and gas producer, is crafting its own plan to address climate change https://t.co/J2A8mmhjZW", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 996457965526843392, 
+        "favorite_count": 161, 
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/J2A8mmhjZW", 
+                    "indices": [
+                        89, 
+                        112
+                    ], 
+                    "expanded_url": "https://nyti.ms/2L57puD", 
+                    "display_url": "nyti.ms/2L57puD"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 71, 
+        "id_str": "996457965526843392", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 807095, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.nytimes.com/", 
+                            "display_url": "nytimes.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ghL9OoYKMM", 
+                            "indices": [
+                                113, 
+                                136
+                            ], 
+                            "expanded_url": "http://nyti.ms/2FVHq9v", 
+                            "display_url": "nyti.ms/2FVHq9v"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 42066812, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "807095", 
+            "profile_background_color": "131516", 
+            "listed_count": 195278, 
+            "is_translation_enabled": true, 
+            "utc_offset": -14400, 
+            "statuses_count": 319900, 
+            "description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.", 
+            "friends_count": 880, 
+            "location": "New York City", 
+            "profile_link_color": "607696", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "screen_name": "nytimes", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 16848, 
+            "name": "The New York Times", 
+            "notifications": false, 
+            "url": "http://t.co/ahvuWqicF9", 
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Tue May 15 18:31:06 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": true, 
+        "text": "NYC Mayor Bill de Blasio said the police would have a plan within 30 days to slash marijuana arrests, after an anal\u2026 https://t.co/yqxh5NNdCc", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 996454436900954112, 
+        "favorite_count": 234, 
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/yqxh5NNdCc", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/996454436900954112", 
+                    "display_url": "twitter.com/i/web/status/9\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 102, 
+        "id_str": "996454436900954112", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 807095, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.nytimes.com/", 
+                            "display_url": "nytimes.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ghL9OoYKMM", 
+                            "indices": [
+                                113, 
+                                136
+                            ], 
+                            "expanded_url": "http://nyti.ms/2FVHq9v", 
+                            "display_url": "nyti.ms/2FVHq9v"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 42066812, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "807095", 
+            "profile_background_color": "131516", 
+            "listed_count": 195278, 
+            "is_translation_enabled": true, 
+            "utc_offset": -14400, 
+            "statuses_count": 319900, 
+            "description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.", 
+            "friends_count": 880, 
+            "location": "New York City", 
+            "profile_link_color": "607696", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "screen_name": "nytimes", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 16848, 
+            "name": "The New York Times", 
+            "notifications": false, 
+            "url": "http://t.co/ahvuWqicF9", 
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Tue May 15 18:17:05 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @Jonesieman: I had Breakfast at Tiffany\u2019s with A$AP Ferg the other day but the conversation was super absorbing and I forgot to order an\u2026", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 996450406870999041, 
+        "favorite_count": 0, 
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 20636428, 
+                    "indices": [
+                        3, 
+                        14
+                    ], 
+                    "id_str": "20636428", 
+                    "screen_name": "Jonesieman", 
+                    "name": "Jonah Bromwich \ud83d\udc7e"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 7, 
+        "id_str": "996450406870999041", 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": true, 
+            "text": "I had Breakfast at Tiffany\u2019s with A$AP Ferg the other day but the conversation was super absorbing and I forgot to\u2026 https://t.co/YavEQLL2Kw", 
+            "is_quote_status": false, 
+            "in_reply_to_status_id": null, 
+            "id": 996438239270637572, 
+            "favorite_count": 21, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [
+                    {
+                        "url": "https://t.co/YavEQLL2Kw", 
+                        "indices": [
+                            116, 
+                            139
+                        ], 
+                        "expanded_url": "https://twitter.com/i/web/status/996438239270637572", 
+                        "display_url": "twitter.com/i/web/status/9\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_user_id": null, 
+            "retweet_count": 7, 
+            "id_str": "996438239270637572", 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "has_extended_profile": false, 
+                "profile_use_background_image": true, 
+                "default_profile_image": false, 
+                "id": 20636428, 
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/416772233/tattoo_artist.jpg", 
+                "verified": true, 
+                "translator_type": "none", 
+                "profile_text_color": "333333", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/948239103262257152/lI2pAT08_normal.jpg", 
+                "profile_sidebar_fill_color": "EFEFEF", 
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/hrpOH5qsLh", 
+                                "indices": [
+                                    0, 
+                                    23
+                                ], 
+                                "expanded_url": "http://www.nytimes.com/by/jonah-engel-bromwich", 
+                                "display_url": "nytimes.com/by/jonah-engel\u2026"
+                            }
+                        ]
+                    }, 
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 3855, 
+                "profile_sidebar_border_color": "EEEEEE", 
+                "id_str": "20636428", 
+                "profile_background_color": "131516", 
+                "listed_count": 97, 
+                "is_translation_enabled": false, 
+                "utc_offset": -14400, 
+                "statuses_count": 131, 
+                "description": "I write for the NYT Styles section. Music at Pitchfork. cover photo by @SuperUltraCo", 
+                "friends_count": 975, 
+                "location": "", 
+                "profile_link_color": "1B95E0", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/948239103262257152/lI2pAT08_normal.jpg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/20636428/1477875047", 
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/416772233/tattoo_artist.jpg", 
+                "screen_name": "Jonesieman", 
+                "lang": "en", 
+                "profile_background_tile": true, 
+                "favourites_count": 6314, 
+                "name": "Jonah Bromwich \ud83d\udc7e", 
+                "notifications": false, 
+                "url": "https://t.co/hrpOH5qsLh", 
+                "created_at": "Wed Feb 11 22:43:19 +0000 2009", 
+                "contributors_enabled": false, 
+                "time_zone": "Eastern Time (US & Canada)", 
+                "protected": false, 
+                "default_profile": false, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Tue May 15 17:12:43 +0000 2018", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 807095, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.nytimes.com/", 
+                            "display_url": "nytimes.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ghL9OoYKMM", 
+                            "indices": [
+                                113, 
+                                136
+                            ], 
+                            "expanded_url": "http://nyti.ms/2FVHq9v", 
+                            "display_url": "nyti.ms/2FVHq9v"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 42066812, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "807095", 
+            "profile_background_color": "131516", 
+            "listed_count": 195278, 
+            "is_translation_enabled": true, 
+            "utc_offset": -14400, 
+            "statuses_count": 319900, 
+            "description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.", 
+            "friends_count": 880, 
+            "location": "New York City", 
+            "profile_link_color": "607696", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "screen_name": "nytimes", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 16848, 
+            "name": "The New York Times", 
+            "notifications": false, 
+            "url": "http://t.co/ahvuWqicF9", 
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Tue May 15 18:01:04 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "300 meters in Gaza: Snipers, burning tires and a contested fence https://t.co/xMvfnxIgU8", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 996446627173978113, 
+        "favorite_count": 179, 
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/xMvfnxIgU8", 
+                    "indices": [
+                        65, 
+                        88
+                    ], 
+                    "expanded_url": "https://nyti.ms/2GimF3C", 
+                    "display_url": "nyti.ms/2GimF3C"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 120, 
+        "id_str": "996446627173978113", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 807095, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.nytimes.com/", 
+                            "display_url": "nytimes.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ghL9OoYKMM", 
+                            "indices": [
+                                113, 
+                                136
+                            ], 
+                            "expanded_url": "http://nyti.ms/2FVHq9v", 
+                            "display_url": "nyti.ms/2FVHq9v"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 42066812, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "807095", 
+            "profile_background_color": "131516", 
+            "listed_count": 195278, 
+            "is_translation_enabled": true, 
+            "utc_offset": -14400, 
+            "statuses_count": 319900, 
+            "description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.", 
+            "friends_count": 880, 
+            "location": "New York City", 
+            "profile_link_color": "607696", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "screen_name": "nytimes", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 16848, 
+            "name": "The New York Times", 
+            "notifications": false, 
+            "url": "http://t.co/ahvuWqicF9", 
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Tue May 15 17:46:03 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": true, 
+        "text": "British tabloids have been treating the family of Meghan Markle like the stars of some sort of reality show: The Re\u2026 https://t.co/fnP4ofVJ3f", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 996442847372021760, 
+        "favorite_count": 196, 
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/fnP4ofVJ3f", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/996442847372021760", 
+                    "display_url": "twitter.com/i/web/status/9\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 62, 
+        "id_str": "996442847372021760", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 807095, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.nytimes.com/", 
+                            "display_url": "nytimes.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ghL9OoYKMM", 
+                            "indices": [
+                                113, 
+                                136
+                            ], 
+                            "expanded_url": "http://nyti.ms/2FVHq9v", 
+                            "display_url": "nyti.ms/2FVHq9v"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 42066812, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "807095", 
+            "profile_background_color": "131516", 
+            "listed_count": 195278, 
+            "is_translation_enabled": true, 
+            "utc_offset": -14400, 
+            "statuses_count": 319900, 
+            "description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.", 
+            "friends_count": 880, 
+            "location": "New York City", 
+            "profile_link_color": "607696", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "screen_name": "nytimes", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 16848, 
+            "name": "The New York Times", 
+            "notifications": false, 
+            "url": "http://t.co/ahvuWqicF9", 
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Tue May 15 17:31:02 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "RT @jennyschuessler: RIP Tom Wolfe, observer extraordinaire. A few years ago I was lucky to get this first look at his archive, and the man\u2026", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 996438992236220416, 
+        "favorite_count": 0, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [
+                {
+                    "id": 131315938, 
+                    "indices": [
+                        3, 
+                        19
+                    ], 
+                    "id_str": "131315938", 
+                    "screen_name": "jennyschuessler", 
+                    "name": "Jennifer Schuessler"
+                }
+            ], 
+            "hashtags": [], 
+            "urls": []
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 20, 
+        "id_str": "996438992236220416", 
+        "favorited": false, 
+        "retweeted_status": {
+            "contributors": null, 
+            "truncated": true, 
+            "text": "RIP Tom Wolfe, observer extraordinaire. A few years ago I was lucky to get this first look at his archive, and the\u2026 https://t.co/BdarlD2kGV", 
+            "is_quote_status": false, 
+            "in_reply_to_status_id": null, 
+            "id": 996422065631703041, 
+            "favorite_count": 36, 
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+            "retweeted": false, 
+            "coordinates": null, 
+            "entities": {
+                "symbols": [], 
+                "user_mentions": [], 
+                "hashtags": [], 
+                "urls": [
+                    {
+                        "url": "https://t.co/BdarlD2kGV", 
+                        "indices": [
+                            116, 
+                            139
+                        ], 
+                        "expanded_url": "https://twitter.com/i/web/status/996422065631703041", 
+                        "display_url": "twitter.com/i/web/status/9\u2026"
+                    }
+                ]
+            }, 
+            "in_reply_to_screen_name": null, 
+            "in_reply_to_user_id": null, 
+            "retweet_count": 20, 
+            "id_str": "996422065631703041", 
+            "favorited": false, 
+            "user": {
+                "follow_request_sent": false, 
+                "has_extended_profile": false, 
+                "profile_use_background_image": true, 
+                "default_profile_image": false, 
+                "id": 131315938, 
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png", 
+                "verified": false, 
+                "translator_type": "none", 
+                "profile_text_color": "333333", 
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/883051299352301569/e9k7K3wS_normal.jpg", 
+                "profile_sidebar_fill_color": "DDEEF6", 
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                }, 
+                "followers_count": 6064, 
+                "profile_sidebar_border_color": "C0DEED", 
+                "id_str": "131315938", 
+                "profile_background_color": "C0DEED", 
+                "listed_count": 188, 
+                "is_translation_enabled": false, 
+                "utc_offset": null, 
+                "statuses_count": 9021, 
+                "description": "New York Times ideas reporter, lapsed midwesterner, defender of the Oxford comma, &c. RTs are not an endorsement, unless it's Walt Whitman", 
+                "friends_count": 1564, 
+                "location": "Brooklyn, NY", 
+                "profile_link_color": "1DA1F2", 
+                "profile_image_url": "http://pbs.twimg.com/profile_images/883051299352301569/e9k7K3wS_normal.jpg", 
+                "following": false, 
+                "geo_enabled": false, 
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png", 
+                "screen_name": "jennyschuessler", 
+                "lang": "en", 
+                "profile_background_tile": false, 
+                "favourites_count": 12400, 
+                "name": "Jennifer Schuessler", 
+                "notifications": false, 
+                "url": null, 
+                "created_at": "Fri Apr 09 22:51:16 +0000 2010", 
+                "contributors_enabled": false, 
+                "time_zone": null, 
+                "protected": false, 
+                "default_profile": true, 
+                "is_translator": false
+            }, 
+            "geo": null, 
+            "in_reply_to_user_id_str": null, 
+            "possibly_sensitive": false, 
+            "lang": "en", 
+            "created_at": "Tue May 15 16:08:27 +0000 2018", 
+            "in_reply_to_status_id_str": null, 
+            "place": null
+        }, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 807095, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.nytimes.com/", 
+                            "display_url": "nytimes.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ghL9OoYKMM", 
+                            "indices": [
+                                113, 
+                                136
+                            ], 
+                            "expanded_url": "http://nyti.ms/2FVHq9v", 
+                            "display_url": "nyti.ms/2FVHq9v"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 42066812, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "807095", 
+            "profile_background_color": "131516", 
+            "listed_count": 195278, 
+            "is_translation_enabled": true, 
+            "utc_offset": -14400, 
+            "statuses_count": 319900, 
+            "description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.", 
+            "friends_count": 880, 
+            "location": "New York City", 
+            "profile_link_color": "607696", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "screen_name": "nytimes", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 16848, 
+            "name": "The New York Times", 
+            "notifications": false, 
+            "url": "http://t.co/ahvuWqicF9", 
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "lang": "en", 
+        "created_at": "Tue May 15 17:15:43 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "The opening of the American Embassy in Jerusalem is a victory for Trump\u2019s evangelical base https://t.co/XOyfcH4Fc9 https://t.co/ErnpfOz75O", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 996435316658630658, 
+        "favorite_count": 116, 
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/XOyfcH4Fc9", 
+                    "indices": [
+                        91, 
+                        114
+                    ], 
+                    "expanded_url": "https://nyti.ms/2Gj4ISL", 
+                    "display_url": "nyti.ms/2Gj4ISL"
+                }
+            ], 
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/nytimes/status/996435316658630658/photo/1", 
+                    "display_url": "pic.twitter.com/ErnpfOz75O", 
+                    "url": "https://t.co/ErnpfOz75O", 
+                    "media_url_https": "https://pbs.twimg.com/media/DdQMo49XUAAvffq.jpg", 
+                    "id_str": "996435314179788800", 
+                    "sizes": {
+                        "large": {
+                            "h": 560, 
+                            "resize": "fit", 
+                            "w": 1000
+                        }, 
+                        "small": {
+                            "h": 381, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "medium": {
+                            "h": 560, 
+                            "resize": "fit", 
+                            "w": 1000
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        115, 
+                        138
+                    ], 
+                    "type": "photo", 
+                    "id": 996435314179788800, 
+                    "media_url": "http://pbs.twimg.com/media/DdQMo49XUAAvffq.jpg"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 55, 
+        "id_str": "996435316658630658", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 807095, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.nytimes.com/", 
+                            "display_url": "nytimes.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ghL9OoYKMM", 
+                            "indices": [
+                                113, 
+                                136
+                            ], 
+                            "expanded_url": "http://nyti.ms/2FVHq9v", 
+                            "display_url": "nyti.ms/2FVHq9v"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 42066812, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "807095", 
+            "profile_background_color": "131516", 
+            "listed_count": 195278, 
+            "is_translation_enabled": true, 
+            "utc_offset": -14400, 
+            "statuses_count": 319900, 
+            "description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.", 
+            "friends_count": 880, 
+            "location": "New York City", 
+            "profile_link_color": "607696", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "screen_name": "nytimes", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 16848, 
+            "name": "The New York Times", 
+            "notifications": false, 
+            "url": "http://t.co/ahvuWqicF9", 
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Tue May 15 17:01:07 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null, 
+        "extended_entities": {
+            "media": [
+                {
+                    "expanded_url": "https://twitter.com/nytimes/status/996435316658630658/photo/1", 
+                    "display_url": "pic.twitter.com/ErnpfOz75O", 
+                    "url": "https://t.co/ErnpfOz75O", 
+                    "media_url_https": "https://pbs.twimg.com/media/DdQMo49XUAAvffq.jpg", 
+                    "id_str": "996435314179788800", 
+                    "sizes": {
+                        "large": {
+                            "h": 560, 
+                            "resize": "fit", 
+                            "w": 1000
+                        }, 
+                        "small": {
+                            "h": 381, 
+                            "resize": "fit", 
+                            "w": 680
+                        }, 
+                        "medium": {
+                            "h": 560, 
+                            "resize": "fit", 
+                            "w": 1000
+                        }, 
+                        "thumb": {
+                            "h": 150, 
+                            "resize": "crop", 
+                            "w": 150
+                        }
+                    }, 
+                    "indices": [
+                        115, 
+                        138
+                    ], 
+                    "type": "photo", 
+                    "id": 996435314179788800, 
+                    "media_url": "http://pbs.twimg.com/media/DdQMo49XUAAvffq.jpg"
+                }
+            ]
+        }
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "Keeven Robinson, 22, died after suffering \u201csignificant traumatic injuries to the neck\u201d during an arrest in Louisiana https://t.co/HaDSBYpIjK", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 996431527708971009, 
+        "favorite_count": 209, 
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/HaDSBYpIjK", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://nyti.ms/2L1iY6h", 
+                    "display_url": "nyti.ms/2L1iY6h"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 209, 
+        "id_str": "996431527708971009", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 807095, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.nytimes.com/", 
+                            "display_url": "nytimes.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ghL9OoYKMM", 
+                            "indices": [
+                                113, 
+                                136
+                            ], 
+                            "expanded_url": "http://nyti.ms/2FVHq9v", 
+                            "display_url": "nyti.ms/2FVHq9v"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 42066812, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "807095", 
+            "profile_background_color": "131516", 
+            "listed_count": 195278, 
+            "is_translation_enabled": true, 
+            "utc_offset": -14400, 
+            "statuses_count": 319900, 
+            "description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.", 
+            "friends_count": 880, 
+            "location": "New York City", 
+            "profile_link_color": "607696", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "screen_name": "nytimes", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 16848, 
+            "name": "The New York Times", 
+            "notifications": false, 
+            "url": "http://t.co/ahvuWqicF9", 
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Tue May 15 16:46:03 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": false, 
+        "text": "See which Facebook ads Russians targeted to people like you https://t.co/9bBaghC4Hx", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 996429493668544514, 
+        "favorite_count": 101, 
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/9bBaghC4Hx", 
+                    "indices": [
+                        60, 
+                        83
+                    ], 
+                    "expanded_url": "https://nyti.ms/2L213fF", 
+                    "display_url": "nyti.ms/2L213fF"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 73, 
+        "id_str": "996429493668544514", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 807095, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.nytimes.com/", 
+                            "display_url": "nytimes.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ghL9OoYKMM", 
+                            "indices": [
+                                113, 
+                                136
+                            ], 
+                            "expanded_url": "http://nyti.ms/2FVHq9v", 
+                            "display_url": "nyti.ms/2FVHq9v"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 42066812, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "807095", 
+            "profile_background_color": "131516", 
+            "listed_count": 195278, 
+            "is_translation_enabled": true, 
+            "utc_offset": -14400, 
+            "statuses_count": 319900, 
+            "description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.", 
+            "friends_count": 880, 
+            "location": "New York City", 
+            "profile_link_color": "607696", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "screen_name": "nytimes", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 16848, 
+            "name": "The New York Times", 
+            "notifications": false, 
+            "url": "http://t.co/ahvuWqicF9", 
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Tue May 15 16:37:58 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": true, 
+        "text": "Manhattan and Brooklyn top the city in marijuana arrests. Their district attorneys want to slash the number of case\u2026 https://t.co/kyBTpHsLy9", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 996423991907831809, 
+        "favorite_count": 262, 
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/kyBTpHsLy9", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/996423991907831809", 
+                    "display_url": "twitter.com/i/web/status/9\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 79, 
+        "id_str": "996423991907831809", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 807095, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.nytimes.com/", 
+                            "display_url": "nytimes.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ghL9OoYKMM", 
+                            "indices": [
+                                113, 
+                                136
+                            ], 
+                            "expanded_url": "http://nyti.ms/2FVHq9v", 
+                            "display_url": "nyti.ms/2FVHq9v"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 42066812, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "807095", 
+            "profile_background_color": "131516", 
+            "listed_count": 195278, 
+            "is_translation_enabled": true, 
+            "utc_offset": -14400, 
+            "statuses_count": 319900, 
+            "description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.", 
+            "friends_count": 880, 
+            "location": "New York City", 
+            "profile_link_color": "607696", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "screen_name": "nytimes", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 16848, 
+            "name": "The New York Times", 
+            "notifications": false, 
+            "url": "http://t.co/ahvuWqicF9", 
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Tue May 15 16:16:06 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": true, 
+        "text": "For decades, Georgia State was a rather unremarkable commuter school. It's been reimagined as one of the South\u2019s mo\u2026 https://t.co/0NV6tyX59j", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 996420208490373123, 
+        "favorite_count": 251, 
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/0NV6tyX59j", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/996420208490373123", 
+                    "display_url": "twitter.com/i/web/status/9\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 75, 
+        "id_str": "996420208490373123", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 807095, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.nytimes.com/", 
+                            "display_url": "nytimes.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ghL9OoYKMM", 
+                            "indices": [
+                                113, 
+                                136
+                            ], 
+                            "expanded_url": "http://nyti.ms/2FVHq9v", 
+                            "display_url": "nyti.ms/2FVHq9v"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 42066812, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "807095", 
+            "profile_background_color": "131516", 
+            "listed_count": 195278, 
+            "is_translation_enabled": true, 
+            "utc_offset": -14400, 
+            "statuses_count": 319900, 
+            "description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.", 
+            "friends_count": 880, 
+            "location": "New York City", 
+            "profile_link_color": "607696", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "screen_name": "nytimes", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 16848, 
+            "name": "The New York Times", 
+            "notifications": false, 
+            "url": "http://t.co/ahvuWqicF9", 
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Tue May 15 16:01:04 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": true, 
+        "text": "Tom Wolfe has died at 88. With books like \"The Right Stuff,\" the innovative journalist's colorful prose captured th\u2026 https://t.co/QuAkPLRQgU", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": 996407213307650048, 
+        "id": 996418270877159424, 
+        "favorite_count": 440, 
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/QuAkPLRQgU", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/996418270877159424", 
+                    "display_url": "twitter.com/i/web/status/9\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": "nytimes", 
+        "in_reply_to_user_id": 807095, 
+        "retweet_count": 325, 
+        "id_str": "996418270877159424", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 807095, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.nytimes.com/", 
+                            "display_url": "nytimes.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ghL9OoYKMM", 
+                            "indices": [
+                                113, 
+                                136
+                            ], 
+                            "expanded_url": "http://nyti.ms/2FVHq9v", 
+                            "display_url": "nyti.ms/2FVHq9v"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 42066812, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "807095", 
+            "profile_background_color": "131516", 
+            "listed_count": 195278, 
+            "is_translation_enabled": true, 
+            "utc_offset": -14400, 
+            "statuses_count": 319900, 
+            "description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.", 
+            "friends_count": 880, 
+            "location": "New York City", 
+            "profile_link_color": "607696", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "screen_name": "nytimes", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 16848, 
+            "name": "The New York Times", 
+            "notifications": false, 
+            "url": "http://t.co/ahvuWqicF9", 
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": "807095", 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Tue May 15 15:53:22 +0000 2018", 
+        "in_reply_to_status_id_str": "996407213307650048", 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": true, 
+        "text": "Ice cores from Greenland have long been used to track climate change. Now they're leading to new insights into anci\u2026 https://t.co/YdpJK2lGgh", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 996416420895436800, 
+        "favorite_count": 153, 
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/YdpJK2lGgh", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/996416420895436800", 
+                    "display_url": "twitter.com/i/web/status/9\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 68, 
+        "id_str": "996416420895436800", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 807095, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.nytimes.com/", 
+                            "display_url": "nytimes.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ghL9OoYKMM", 
+                            "indices": [
+                                113, 
+                                136
+                            ], 
+                            "expanded_url": "http://nyti.ms/2FVHq9v", 
+                            "display_url": "nyti.ms/2FVHq9v"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 42066812, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "807095", 
+            "profile_background_color": "131516", 
+            "listed_count": 195278, 
+            "is_translation_enabled": true, 
+            "utc_offset": -14400, 
+            "statuses_count": 319900, 
+            "description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.", 
+            "friends_count": 880, 
+            "location": "New York City", 
+            "profile_link_color": "607696", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "screen_name": "nytimes", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 16848, 
+            "name": "The New York Times", 
+            "notifications": false, 
+            "url": "http://t.co/ahvuWqicF9", 
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Tue May 15 15:46:01 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": true, 
+        "text": "\"What I did not see was starvation,\" the head of the World Food Program said about North Korea. \"I saw none of that\u2026 https://t.co/PpeYwx5MTK", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 996412443315331072, 
+        "favorite_count": 75, 
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/PpeYwx5MTK", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/996412443315331072", 
+                    "display_url": "twitter.com/i/web/status/9\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 31, 
+        "id_str": "996412443315331072", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 807095, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.nytimes.com/", 
+                            "display_url": "nytimes.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ghL9OoYKMM", 
+                            "indices": [
+                                113, 
+                                136
+                            ], 
+                            "expanded_url": "http://nyti.ms/2FVHq9v", 
+                            "display_url": "nyti.ms/2FVHq9v"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 42066812, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "807095", 
+            "profile_background_color": "131516", 
+            "listed_count": 195278, 
+            "is_translation_enabled": true, 
+            "utc_offset": -14400, 
+            "statuses_count": 319900, 
+            "description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.", 
+            "friends_count": 880, 
+            "location": "New York City", 
+            "profile_link_color": "607696", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "screen_name": "nytimes", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 16848, 
+            "name": "The New York Times", 
+            "notifications": false, 
+            "url": "http://t.co/ahvuWqicF9", 
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Tue May 15 15:30:13 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }, 
+    {
+        "contributors": null, 
+        "truncated": true, 
+        "text": "A group of nurses at the Zuckerberg San Francisco General Hospital are renewing their efforts to have the Zuckerber\u2026 https://t.co/nflwSMlyoU", 
+        "is_quote_status": false, 
+        "in_reply_to_status_id": null, 
+        "id": 996410087450251264, 
+        "favorite_count": 257, 
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>", 
+        "retweeted": false, 
+        "coordinates": null, 
+        "entities": {
+            "symbols": [], 
+            "user_mentions": [], 
+            "hashtags": [], 
+            "urls": [
+                {
+                    "url": "https://t.co/nflwSMlyoU", 
+                    "indices": [
+                        117, 
+                        140
+                    ], 
+                    "expanded_url": "https://twitter.com/i/web/status/996410087450251264", 
+                    "display_url": "twitter.com/i/web/status/9\u2026"
+                }
+            ]
+        }, 
+        "in_reply_to_screen_name": null, 
+        "in_reply_to_user_id": null, 
+        "retweet_count": 100, 
+        "id_str": "996410087450251264", 
+        "favorited": false, 
+        "user": {
+            "follow_request_sent": false, 
+            "has_extended_profile": false, 
+            "profile_use_background_image": true, 
+            "default_profile_image": false, 
+            "id": 807095, 
+            "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "verified": true, 
+            "translator_type": "none", 
+            "profile_text_color": "333333", 
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "profile_sidebar_fill_color": "EFEFEF", 
+            "entities": {
+                "url": {
+                    "urls": [
+                        {
+                            "url": "http://t.co/ahvuWqicF9", 
+                            "indices": [
+                                0, 
+                                22
+                            ], 
+                            "expanded_url": "http://www.nytimes.com/", 
+                            "display_url": "nytimes.com"
+                        }
+                    ]
+                }, 
+                "description": {
+                    "urls": [
+                        {
+                            "url": "https://t.co/ghL9OoYKMM", 
+                            "indices": [
+                                113, 
+                                136
+                            ], 
+                            "expanded_url": "http://nyti.ms/2FVHq9v", 
+                            "display_url": "nyti.ms/2FVHq9v"
+                        }
+                    ]
+                }
+            }, 
+            "followers_count": 42066812, 
+            "profile_sidebar_border_color": "FFFFFF", 
+            "id_str": "807095", 
+            "profile_background_color": "131516", 
+            "listed_count": 195278, 
+            "is_translation_enabled": true, 
+            "utc_offset": -14400, 
+            "statuses_count": 319900, 
+            "description": "Where the conversation begins. Follow for breaking news, special reports, RTs of our journalists and more. Visit https://t.co/ghL9OoYKMM to share news tips.", 
+            "friends_count": 880, 
+            "location": "New York City", 
+            "profile_link_color": "607696", 
+            "profile_image_url": "http://pbs.twimg.com/profile_images/942784892882112513/qV4xB0I3_normal.jpg", 
+            "following": false, 
+            "geo_enabled": false, 
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/807095/1522172276", 
+            "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/736339684/948f072cc2da4e3a5e9f2ebfb3b1a0e7.png", 
+            "screen_name": "nytimes", 
+            "lang": "en", 
+            "profile_background_tile": true, 
+            "favourites_count": 16848, 
+            "name": "The New York Times", 
+            "notifications": false, 
+            "url": "http://t.co/ahvuWqicF9", 
+            "created_at": "Fri Mar 02 20:41:42 +0000 2007", 
+            "contributors_enabled": false, 
+            "time_zone": "Eastern Time (US & Canada)", 
+            "protected": false, 
+            "default_profile": false, 
+            "is_translator": false
+        }, 
+        "geo": null, 
+        "in_reply_to_user_id_str": null, 
+        "possibly_sensitive": false, 
+        "lang": "en", 
+        "created_at": "Tue May 15 15:20:51 +0000 2018", 
+        "in_reply_to_status_id_str": null, 
+        "place": null
+    }
+]

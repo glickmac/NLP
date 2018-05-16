@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar ns="" xmlns="http://relaxng.org/ns/structure/1.0" datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes">
+  <start>
+    <element name="docs">
+      <oneOrMore>
+        <element name="doc">
+          <attribute name="id">
+            <data type="integer"/>
+          </attribute>
+          <attribute name="type">
+            <data type="NCName"/>
+          </attribute>
+          <element name="codes">
+            <oneOrMore>
+              <element name="code">
+                <attribute name="origin">
+                  <data type="NCName"/>
+                </attribute>
+                <attribute name="type">
+                  <data type="NCName"/>
+                </attribute>
+                <data type="NMTOKEN"/>
+              </element>
+            </oneOrMore>
+          </element>
+          <element name="texts">
+            <oneOrMore>
+              <element name="text">
+                <attribute name="origin">
+                  <data type="NCName"/>
+                </attribute>
+                <attribute name="type">
+                  <data type="NCName"/>
+                </attribute>
+                <text/>
+              </element>
+            </oneOrMore>
+          </element>
+        </element>
+      </oneOrMore>
+    </element>
+  </start>
+</grammar>
